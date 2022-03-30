@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Courtesy of Harriet Ritvo. Used with permission.'
   image-alt: In the left foreground, a rocky hill with sparse patches of shrubs slopes
     to meet the water. In the background, other hills and outcrops are visible.
+parent_uid: 3bb3e132-7196-6241-08ee-d3a2f281aa01
 resourcetype: Image
 title: rockyshore.jpg
 uid: 14f2a754-c051-9519-6890-f1f48e3bb14f

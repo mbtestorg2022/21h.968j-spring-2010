@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Courtesy of Harriet Ritvo. Used with permission.'
   image-alt: A dozen seals, ranging from light brown to gray, lie on a white sandy
     beach.
+parent_uid: 3bb3e132-7196-6241-08ee-d3a2f281aa01
 resourcetype: Image
 title: seals.jpg
 uid: 119688f5-4c3f-e081-ad9e-c4817435bc52

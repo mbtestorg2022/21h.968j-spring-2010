@@ -14,11 +14,11 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Spring 2010, Harriet Ritvo ([PDF](/courses/history/21h-968j-nature-environment-and-empire-spring-2010/Syllabus/MIT21H_968JS10_syllS10.pdf))
+> Spring 2010, Harriet Ritvo ({{% resource_link "59372de0-f1ff-2138-eb77-5503d059adf0" "PDF" %}})
 > 
-> Spring 2008, Harriet Ritvo ([PDF](/courses/history/21h-968j-nature-environment-and-empire-spring-2010/Syllabus/MIT21H_968S10_syllS08.pdf))
+> Spring 2008, Harriet Ritvo ({{% resource_link "b1c295c2-9d95-ed37-47b8-bf5e2f7e9519" "PDF" %}})
 > 
-> Spring 2005, Harriet Ritvo ([PDF](/courses/history/21h-968j-nature-environment-and-empire-spring-2010/Syllabus/MIT21H_968S10_syllS05.pdf))
+> Spring 2005, Harriet Ritvo ({{% resource_link "ac495ee1-b974-537d-ef26-cda9a83c641f" "PDF" %}})
 
 Description
 -----------

@@ -9,6 +9,7 @@ image_metadata:
     \ a pen."
   credit: 'Credit: Courtesy of Harriet Ritvo. Used with permission.'
   image-alt: 6 large tortoises sit among green leaves and rocks behind a wall.
+parent_uid: 3bb3e132-7196-6241-08ee-d3a2f281aa01
 resourcetype: Image
 title: tametortoise.jpg
 uid: 1d7d72af-fd7c-12de-1376-155c09da4469

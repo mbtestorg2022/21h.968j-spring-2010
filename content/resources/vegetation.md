@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Courtesy of Harriet Ritvo. Used with permission.'
   image-alt: At the top of a gray-brown bush, light green leaves and yellow flowers
     grow.
+parent_uid: 3bb3e132-7196-6241-08ee-d3a2f281aa01
 resourcetype: Image
 title: vegetation.jpg
 uid: f73b947a-6565-5e92-10bf-63bc8723b8b7

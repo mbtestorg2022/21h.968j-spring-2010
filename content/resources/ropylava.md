@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Courtesy of Harriet Ritvo. Used with permission.'
   image-alt: Brown-black irregular rocks cover the ground; on the horizon, green vegetation
     is visible.
+parent_uid: 3bb3e132-7196-6241-08ee-d3a2f281aa01
 resourcetype: Image
 title: ropylava.jpg
 uid: cc8f0d14-7548-50f4-a269-88a2988bc3d7
